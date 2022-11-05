@@ -2,7 +2,7 @@
 # Asos_Clone_Website
 
 This project is a team project of 6 members, This is an e-commerce website that sells cosmetic products. We built this cloning project
-Within 5 days and this is our first project during the Masai curriculum [go](https://lucent-custard-7305bd.netlify.app/){:target="_blank"}.
+Within 5 days and this is our first project during the Masai curriculum [Asos Website](https://lucent-custard-7305bd.netlify.app/){:target="_blank" rel="noopener"} .
 
 
 ## Features
@@ -37,10 +37,13 @@ Within 5 days and this is our first project during the Masai curriculum [go](htt
 
 # Screenshots
 ## Landing Page
-<img src="WebsiteScreenShot/Trip Advisor_LandingPage.PNG">
+<img src="WebsiteScreenShot/Asos.PNG">
 
-## Product Page
-<img src="WebsiteScreenShot/Trip Advisor_Menu.PNG" border="5px solid black">
+## Men Product Page
+<img src="WebsiteScreenShot/Asos_Men_Product.PNG">
 
-## Basket Page
-<img src="WebsiteScreenShot/Trip Advisor_Basket.PNG" border="5px solid black" margin-top="2px">
+## Men Product Page
+<img src="WebsiteScreenShot/Asos_Women_Product.PNG">
+
+## Login/SignUp Page
+<img src="WebsiteScreenShot/Asos_Login_Signup.PNG" >
