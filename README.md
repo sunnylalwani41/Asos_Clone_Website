@@ -2,7 +2,7 @@
 # Asos_Clone_Website
 
 This project is a team project of 6 members, This is an e-commerce website that sells cosmetic products. We built this cloning project
-Within 5 days and this is our first project during the Masai curriculum [Asos Website](https://lucent-custard-7305bd.netlify.app/){:target="_blank" rel="noopener"} .
+Within 5 days and this is our first project during the Masai curriculum [Asos Website](https://lucent-custard-7305bd.netlify.app/).
 
 
 ## Features
